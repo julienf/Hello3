@@ -1,2 +1,2 @@
 #awk -f awk.awk
-BEGIN {print "Hopla!"}
+BEGIN {print "H0pla !"}
